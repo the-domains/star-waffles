@@ -1,14 +1,7 @@
-color:
-  saturation: 0.6200717
-  brandStrength: 1
-  rhythmicContrast: 0.344086
-  brandColors:
-    - '#326A2B'
-    - '#EEAA0B'
-    - '#FBFFF9'
-    - '#ECD2A5'
-    - '#887702'
-  lightness: 0
+name: Star-Waffles
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.3200616
 collections:
   - index:
       path: /
@@ -21,6 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0
-typography_spectrum: 0.3200616
-name: Star-Waffles
+title: Hausgemachte Waffeln aus der Wetterau
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#326A2B'
+    - '#EEAA0B'
+    - '#FBFFF9'
+    - '#ECD2A5'
+    - '#887702'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.6200717
+  rhythmicContrast: 0.344086
+purpose: []
