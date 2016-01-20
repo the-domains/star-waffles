@@ -1,14 +1,14 @@
-layout_spectrum: 0.927099
+layout_spectrum: 0
 typography_spectrum: 0.3200616
 color:
-  saturation: 0.6897062
-  lightness: 0.02417291
+  saturation: 0.6200717
   brandStrength: 1
+  lightness: 0
   brandColors:
     - '#326A2B'
     - '#EEAA0B'
     - '#FBFFF9'
     - '#ECD2A5'
     - '#887702'
-  rhythmicContrast: 0.01537924
+  rhythmicContrast: 0.344086
 name: Star-Waffles
